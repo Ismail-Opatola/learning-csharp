@@ -1,11 +1,11 @@
 # C-Sharp
 
-## Create a project
+1. Helloworld
 
-	dotnet new console
+- Create a project `$ dotnet new console`
+- Run project `$ dotnet run`
 
-## Run project
-	
-	cd ./project
-	dotnet run
+2. Login Form
 
+- Create project `dotnet new winforms -o LoginForm`
+- `$ dotnet run`
